@@ -19,4 +19,10 @@ La multimedia se refiere al uso de varios medios, como las imagenes, textos o so
 
 Por otro lado, la remediación, según Bolter y Grusin (1999), es un concepto relacionado pero distinto. Este término se describe cómo un medio nuevo toma inspiración de un medio más antiguo para reproducir o reformular sus características. A diferencia de la hibridación, la remediación no busca una transformación radical, sino una reinterpretación o adaptación del medio original.
 
-## Hibridación Pokémon TGC Pocket
+## Caso 1: Pokémon TGC Pocket
+
+Pokémon TGC Pocket es una versión digital del juego de cartas coleccionables Pokémon TGC. Este juego adapta y simplifica las reglas y dinámicas del formato físico, aprovechando las capacidades del medio digital. Incluye efectos visuales, como animaciones al colocar las cartas en el tablero o efectos parallax al visualizarlas, música de fondo que cambia según el estado de la batalla, como cuando está a punto de terminar, e incluso animaciones de las ilustraciones de las cartas, algo que en la versión física sería imposible de reproducir. Además, permite jugar con personas de todo el mundo, algo que en la versión física sería mucho más complicado de realizar, ya que los jugadores se tendrían que desplazar a diferentes lugares.
+
+La versión digital también incorpora medios como gráficos interactivos, que muestran cuantos Pokémon has vencido del rival, cuántas victorias has logrado, una base de datos para gestionar las cartas de cada jugador y conectividad en línea.
+
+https://youtube.com/shorts/ajd9Ix0IvfE?si=jRdCyeC_Ue3Bv7WH
