@@ -19,6 +19,8 @@ La multimedia se refiere al uso de varios medios, como las imagenes, textos o so
 
 Por otro lado, la remediación, según Bolter y Grusin (1999), es un concepto relacionado pero distinto. Este término se describe cómo un medio nuevo toma inspiración de un medio más antiguo para reproducir o reformular sus características. A diferencia de la hibridación, la remediación no busca una transformación radical, sino una reinterpretación o adaptación del medio original.
 
+---
+
 ## Caso 1: Pokémon TGC Pocket
 
 Pokémon TGC Pocket es una versión digital del juego de cartas coleccionables Pokémon TGC. Este juego adapta y simplifica las reglas y dinámicas del formato físico, aprovechando las capacidades del medio digital. Incluye efectos visuales, como animaciones al colocar las cartas en el tablero o efectos parallax al visualizarlas, música de fondo que cambia según el estado de la batalla, como cuando está a punto de terminar, e incluso animaciones de las ilustraciones de las cartas, algo que en la versión física sería imposible de reproducir. Además, permite jugar con personas de todo el mundo, algo que en la versión física sería mucho más complicado de realizar, ya que los jugadores se tendrían que desplazar a diferentes lugares.
@@ -26,3 +28,29 @@ Pokémon TGC Pocket es una versión digital del juego de cartas coleccionables P
 La versión digital también incorpora medios como gráficos interactivos, que muestran cuantos Pokémon has vencido del rival, cuántas victorias has logrado, una base de datos para gestionar las cartas de cada jugador y conectividad en línea.
 
 https://youtube.com/shorts/ajd9Ix0IvfE?si=jRdCyeC_Ue3Bv7WH
+
+### Medios que incorpora
+
+#### Digitalización del juego de cartas coleccionables
+
+- **Simplificación del juego**: El formato digital adapta las reglas del formato físico, reduciendo la cantidad de cartas por mazo para hacer que las partidas más rápidas y accesibles, especialmente para los nuevos jugadores.
+
+- **Gestión Interactiva**: Los jugadores pueden gestionar y visualizar sus colecciones de cartas de manera interactiva, como si tuvieran un álbum digital. Pueden seleccionar una carta para observarla en detalle, inclinarla ligeramente o rotarla para ver el dorso, ofreciendo una experiencia similar a la del formato físico. 
+
+#### Efectos audiovisuales avanzados
+
+- **Animaciones en el tablero**: Cada carta incluye efectos visuales al ser colocadas o usadas, con opciones de personalización. Por ejemplo, pequeñas animaciones se activan al realizar ataques o habilidades, añadiendo dinamismo al juego.
+
+- **Animaciones en las ilustraciones**: Las cartas cobran vida mediante movimientos sutiles en las ilustraciones, logrados con efectos como parallax. Además, algunas cartas ofrecen una experiencia inmersiva, permitiendo al jugador “viajar” dentro de las ilustraciones, algo que el formato físico no puede replicar.
+
+- **Música reactiva**: La banda sonora se adapta el estado de la partida, intensificando cuando la batalla se aproxima a su fin.
+
+#### Interactividad social y conectividad global
+
+- **Gamificación global**: El formato digital permite a los jugadores competir o intercambiar cartas en línea con personas de todo el mundo, superando las barreras geográficas que limitan el juego físico.
+
+#### Gráficos interactivos y feedback visual
+
+- **Estadísticas**: El juego incluye indicadores visuales que permiten al jugador seguir su progreso, como victorias acumuladas, Pokémon vencidos y la cantidad de cartas de cierto tipo en su colección. Esto fomenta la competitividad y seguimiento de logros
+
+- **Feedback Visual**: El sistema digital mejora la experiencia táctica al presentar información de manera clara y visual. Los efectos alterados de los Pokémon, el daño que infligirás al rival, el estado de la partida (si vas ganando o perdiendo) se muestran de forma intuitiva, facilitando la comprensión del juego en comparación a su contraparte física.
