@@ -54,3 +54,13 @@ https://youtube.com/shorts/ajd9Ix0IvfE?si=jRdCyeC_Ue3Bv7WH
 - **Estadísticas**: El juego incluye indicadores visuales que permiten al jugador seguir su progreso, como victorias acumuladas, Pokémon vencidos y la cantidad de cartas de cierto tipo en su colección. Esto fomenta la competitividad y seguimiento de logros
 
 - **Feedback Visual**: El sistema digital mejora la experiencia táctica al presentar información de manera clara y visual. Los efectos alterados de los Pokémon, el daño que infligirás al rival, el estado de la partida (si vas ganando o perdiendo) se muestran de forma intuitiva, facilitando la comprensión del juego en comparación a su contraparte física.
+
+### Hibridación del caso
+
+- **Integración de medios digitales y físicos**: Aunque está basado en el juego de cartas físico, la versión digital redefine la experiencia mediante nuevas formas de visualizar las cartas, música reactiva, efectos visuales y con gráficos dinámicos. Estos elementos se unen para crear un medio completamente nuevo, más ágil, sencillo de entender y jugar. Que no se puede replicar de manera idéntica en el antiguo medio.
+
+- **Ampliación de capacidades**: La posibilidad de conectarse con jugadores de todo el mundo añaden un valor difícil de alcanzar con el juego tradicional. Además, la capacidad de visualizar las modificaciones de estados o aumento de daño en tiempo real en los combates, mejoran significativamente la experiencia del jugador, ofreciendo una compresión más clara del desarrollo de la partida.
+
+- **Creación de un medio único**: TGC Pocket no es una simple adaptación; introduce características exclusivas del medio digital, como animaciones en las cartas al ser colocadas o al moverlas, y las innovadoras cartas “inmersivas” que permiten explorar sus ilustraciones. Estas experiencias solo son posibles a las capacidades únicas del entorno digital.
+
+---
