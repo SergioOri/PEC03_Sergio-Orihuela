@@ -64,3 +64,11 @@ https://youtube.com/shorts/ajd9Ix0IvfE?si=jRdCyeC_Ue3Bv7WH
 - **Creación de un medio único**: TGC Pocket no es una simple adaptación; introduce características exclusivas del medio digital, como animaciones en las cartas al ser colocadas o al moverlas, y las innovadoras cartas “inmersivas” que permiten explorar sus ilustraciones. Estas experiencias solo son posibles a las capacidades únicas del entorno digital.
 
 ---
+
+## Caso 2: Conciertos holográficos
+
+Los conciertos holográficos de artistas virtuales, como Hatsune Miku, utilizan proyecciones en 3D para crear una ilusión de que el artista está presente en un escenario físico, interactuando con la audiencia. Estos espectáculos combinan música digital generada por un software de síntesis de voz, diseño gráfico en 3D, efectos de iluminación y coreografías cuidadosamente sincronizadas con músicos reales. 
+
+Además, la experiencia se extiende a las plataformas en línea, redes sociales y merchandising, ampliando su alcance, conectando con una audiencia global.
+
+### Medios que incorpora
