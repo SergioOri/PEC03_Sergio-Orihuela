@@ -99,12 +99,12 @@ Además, la experiencia se extiende a las plataformas en línea, redes sociales 
 
 - **Transformación del modelo escénico**
 
-- **Presencia ilimitada**: Al ser un avatar, Hatsune Miku puede “actuar” en múltiples lugares simultaneamente mediante proyecciones, eliminando las restricciones espaciales y temporales propias de los artistas humanos. 
+1. **Presencia ilimitada**: Al ser un avatar, Hatsune Miku puede “actuar” en múltiples lugares simultaneamente mediante proyecciones, eliminando las restricciones espaciales y temporales propias de los artistas humanos. 
 
-- **Artista sin límites físicos**: Hatsune Miku no envejece, no se cansa y es capaz de cambiar su apariencia o movimientos de manera rápida, adaptándose a los diferentes estilos de música. Esta flexibilidad y durabilidad la convierte en un icono inmortal y extremadamente versátil.
+2. **Artista sin límites físicos**: Hatsune Miku no envejece, no se cansa y es capaz de cambiar su apariencia o movimientos de manera rápida, adaptándose a los diferentes estilos de música. Esta flexibilidad y durabilidad la convierte en un icono inmortal y extremadamente versátil.
 
 - **Relación con la audiencia**:
 
-- **Interacción conceptual**: Los fans no interactúan con una persona física, sino con un concepto, lo que permite que proyecten sus propias ideas y emociones sobre el personaje
+1. **Interacción conceptual**: Los fans no interactúan con una persona física, sino con un  concepto, lo que permite que proyecten sus propias ideas y emociones sobre el personaje
 
-- **Cocreación de contenido**: La audiencia no solo consumen el contenido, sino que también lo enriquece al participar activamente en la creación de canciones, arte y otros proyectos relacionados con Hatsune Miku. Esto fortalece el vínculo emocional entre los fans y la figura artística, sentando unas bases como un fenómeno cultural colectivo.
+2. **Cocreación de contenido**: La audiencia no solo consumen el contenido, sino que también lo enriquece al participar activamente en la creación de canciones, arte y otros proyectos relacionados con Hatsune Miku. Esto fortalece el vínculo emocional entre los fans y la figura artística, sentando unas bases como un fenómeno cultural colectivo.
