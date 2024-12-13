@@ -72,3 +72,21 @@ Los conciertos holográficos de artistas virtuales, como Hatsune Miku, utilizan 
 Además, la experiencia se extiende a las plataformas en línea, redes sociales y merchandising, ampliando su alcance, conectando con una audiencia global.
 
 ### Medios que incorpora
+
+#### Tecnología audiovisual para el espectáculo
+
+- **Proyecciones holográficas en 3D**:Las imágenes de Hatsune Miku se proyectan en pantallas  especiales transparentes, crean la impresión de que la artista está físicamente en el escenario. Estas proyecciones se caracterizan por tener movimientos precisos y una apariencia convincente que refuerzan la inmersión del público.
+
+- **Gráficos y diseños en 3D**: Las animaciones de Hatsune Miku incluyen movimientos coreografiados sincronizados perfectamente con la música. Es posible gracias a las técnicas avanzadas de diseño gráfico y modelado en 3D, que aportan dinamismo y realismo a las actuaciones.
+
+- **Efectos de iluminación y sincronización audiovisual**: Los conciertos combinan luces y efectos especiales que interactúan en tiempo real con la música y los movimientos del holograma. Esta combinación refuerza la experiencia inmersiva, creando un espectáculo impactante para la audiencia.
+
+#### Generación de contenido musical
+
+- **Música generada por software**: La voz de Hatsune Miku es creada mediante el software *Vocaloid*, que utiliza un banco de datos de la voz grabada por Saki Fujita. Este software permite producir canciones con cualquier tipo de letra y melodía, alcanzando niveles de calidad similares a las de las humanas.
+
+#### Participación y comunidad global
+
+- **Participación y conectividad global**: El espectáculo no solamente es presencial, también se retransmite en vivo en plataformas como Niconico y YouTube. Esto permite a fans de todo el mundo disfrutar de las actuaciones en tiempo real, eliminando las barreras geográficas y ampliando la audiencia​.
+ 
+- **Contenido generado por usuarios**: La comunidad de fans contribuyen activamente al fenómeno, creando canciones originales, arte, moda y otros proyectos inspirados en Hatsune Miku. Esta participación colectiva amplifica el impacto cultural del personaje y lo convierte en un icono global.
