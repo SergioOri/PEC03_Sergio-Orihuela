@@ -126,4 +126,19 @@ Ambos ejemplos presentados a lo largo del documento son un testimonio de cómo e
 
 ---
 
-## Bibliográfia
+## Referencias
+Alice, H. [Holly]. (2024, 30 de octubre). Pokémon TCG Pocket release date and pre-registration. *Pocket Tactics*. https://www.pockettactics.com/pokemon-tcg-pocket/release-date
+
+Christie, C. [Connor]. (2024, 6 de noviembre). Pokémon TCG Pocket isn’t a card game, it’s a waiting room. *Pocket Tactics*. https://www.pockettactics.com/pokemon-tcg-pocket/review
+
+Gallego, J. [Jelor]. (2016, 2 de junio). Wildly Famous Japanese Pop Star Sells Thousands of Tickets in NYC. Also, She's A Hologram. *Futurism*. https://futurism.com/japanese-hologram-pop-star-conducts-north-america-tour
+
+Kafka, G. [George]. (2017, 2 de marzo). The future of pop music? Hollow shells run by algorithms - and Hatsune Miku is leading the way. *Wired*. https://www.wired.com/story/hatsune-mikus-still-be-here/
+
+Manovich, L. [Lev].(2013). *El Software toma el mando*. Editorial UOC.
+
+Rehagen, T. [Tony]. (2021, 5 de mayo). One of Japan’s most beloved pop stars is a hologram. *Experience*. https://expmag.com/2021/05/one-of-japans-most-beloved-pop-stars-is-a-hologram/
+
+OpenAI (2024) *ChatGPT* (versión GPT-4) [modelo de lenguaje generativo]. https://chatgpt.com/
+
+Skubich, D. [Daz]. (2024, 3 de noviembre). Pokémon TCG Pocket’s god packs make collecting even more realistic. *Pocket Tactics*. https://www.pockettactics.com/pokemon-tcg-pocket/god-packs
