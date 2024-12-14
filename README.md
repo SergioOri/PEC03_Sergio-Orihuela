@@ -1,4 +1,5 @@
-# PEC03_Sergio-Orihuela
+# La hibridación de Pokémon TGC Pocket y los conciertos holográficos
+## Introducción
 En un mundo donde las fronteras entre lo físico y lo digital se desdibujan cada vez más, la hibridación de medios se ha convertido en un proceso clave para la creación de nuevas formas de comunicación y entretenimiento. En este documento se analiza dicho proceso en dos casos específicos: la aplicación *Pokémon TGC Pocket* y los *conciertos holográficos*.
 
 Según Lev Manovich (2013), la hibridación de medios consiste en la combinación de diferentes tipos de medios, como texto, imágenes, videos y sonido, para crear una nueva experiencia o formato que se transforma a través de la lógica y las capacidades del software. A lo largo de este trabajo, exploraré cómo ambos casos ejemplifican este concepto al fusionar elementos tradicionales con innovaciones tecnológicas, dando lugar a nuevas formas de interacción y representación.
