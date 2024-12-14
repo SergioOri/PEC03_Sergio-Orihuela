@@ -108,3 +108,12 @@ Además, la experiencia se extiende a las plataformas en línea, redes sociales 
 1. **Interacción conceptual**: Los fans no interactúan con una persona física, sino con un  concepto, lo que permite que proyecten sus propias ideas y emociones sobre el personaje
 
 2. **Cocreación de contenido**: La audiencia no solo consumen el contenido, sino que también lo enriquece al participar activamente en la creación de canciones, arte y otros proyectos relacionados con Hatsune Miku. Esto fortalece el vínculo emocional entre los fans y la figura artística, sentando unas bases como un fenómeno cultural colectivo.
+
+---
+## Valoración final
+
+La hibridación de medios, como la describe Lev Manovich (2013), es un fenómeno que trasforma la forma que experimentamos y creamos contenido cultural. Este concepto se manifiesta claramente en los casos analizados: *Pokémon TGC Pocket* y los *conciertos holográficos de Hatsune Miku*. Ambos representan ejemplos de como la lógica del software no solo configura los medios tradicionales, sino que los transforma de manera radical.
+
+En el caso de *Pokémon TGC Pocket*, observamos como un juego de cartas físico se reinventa al integrar la tecnología digital. Las capacidades del software no solo simplifican el juego, sino que también permite crear experiencias imposibles de recrear en el formato físico, como las cartas animadas o una conectividad global. Esta transformación demuestra lo que Manovich (2013) denomina *“la capacidad del software para modificar los medios originales, expandiendo las posibilidades y generando nuevas formas de interacción”*.
+
+Por otro lado, los conciertos holográficos de Hatsune Miku demuestran la hibridación de medios  redefine la experiencia escénica mediante la combinación de hologramas, músicas generadas por el software de *Vocaloid* y la participación comunitaria. Este enfoque trasciende los conciertos tradicionales, creando espectáculos inmersivos y participativos. Aquí, la lógica del software no solo transforma los elementos individuales, como la música y las proyecciones, sino que también permiten una conexión global y cocreación masiva, haciendo Hatsune Miku un fenómeno cultural colaborativo.
