@@ -117,3 +117,13 @@ La hibridación de medios, como la describe Lev Manovich (2013), es un fenómeno
 En el caso de *Pokémon TGC Pocket*, observamos como un juego de cartas físico se reinventa al integrar la tecnología digital. Las capacidades del software no solo simplifican el juego, sino que también permite crear experiencias imposibles de recrear en el formato físico, como las cartas animadas o una conectividad global. Esta transformación demuestra lo que Manovich (2013) denomina *“la capacidad del software para modificar los medios originales, expandiendo las posibilidades y generando nuevas formas de interacción”*.
 
 Por otro lado, los conciertos holográficos de Hatsune Miku demuestran la hibridación de medios  redefine la experiencia escénica mediante la combinación de hologramas, músicas generadas por el software de *Vocaloid* y la participación comunitaria. Este enfoque trasciende los conciertos tradicionales, creando espectáculos inmersivos y participativos. Aquí, la lógica del software no solo transforma los elementos individuales, como la música y las proyecciones, sino que también permiten una conexión global y cocreación masiva, haciendo Hatsune Miku un fenómeno cultural colaborativo.
+
+## Conclusión
+
+En el contexto actual, donde lo físico y lo digital convergen, la hibridación de medios se posiciona como un motor clave para la innovación cultural. Como sostiene Manovich (2013), *“el software se convierte en el agente central en la creación de medios, dictando sus posibilidades y límites”*. Los casos analizados demuestran cómo esta lógica redefine nuestras formas de interacción, consumo y creación cultural. La hibridación no solo expande los horizontes con los medios tradicionales, sino que los transforma nuestra relación con la tecnología.
+
+Ambos ejemplos presentados a lo largo del documento son un testimonio de cómo el *software toma el mando*, configurando no solo los medios que consumimos, sino también las experiencias y conexiones culturales que generan.
+
+---
+
+## Bibliográfia
