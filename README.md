@@ -38,6 +38,8 @@ https://youtube.com/shorts/ajd9Ix0IvfE?si=jRdCyeC_Ue3Bv7WH
 
 - **Gestión Interactiva**: Los jugadores pueden gestionar y visualizar sus colecciones de cartas de manera interactiva, como si tuvieran un álbum digital. Pueden seleccionar una carta para observarla en detalle, inclinarla ligeramente o rotarla para ver el dorso, ofreciendo una experiencia similar a la del formato físico. 
 
+![Mis Cartas](https://github.com/user-attachments/assets/468c3b3b-6418-482f-9c58-00ef0ed2a935)
+
 #### Efectos audiovisuales avanzados
 
 - **Animaciones en el tablero**: Cada carta incluye efectos visuales al ser colocadas o usadas, con opciones de personalización. Por ejemplo, pequeñas animaciones se activan al realizar ataques o habilidades, añadiendo dinamismo al juego.
@@ -83,6 +85,8 @@ Además, la experiencia se extiende a las plataformas en línea, redes sociales 
 - **Gráficos y diseños en 3D**: Las animaciones de Hatsune Miku incluyen movimientos coreografiados sincronizados perfectamente con la música. Es posible gracias a las técnicas avanzadas de diseño gráfico y modelado en 3D, que aportan dinamismo y realismo a las actuaciones.
 
 - **Efectos de iluminación y sincronización audiovisual**: Los conciertos combinan luces y efectos especiales que interactúan en tiempo real con la música y los movimientos del holograma. Esta combinación refuerza la experiencia inmersiva, creando un espectáculo impactante para la audiencia.
+
+https://www.youtube.com/watch?v=A8h_iAwg-vc
 
 #### Generación de contenido musical
 
