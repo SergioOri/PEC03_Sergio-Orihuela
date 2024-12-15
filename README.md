@@ -132,21 +132,22 @@ Ambos ejemplos presentados a lo largo del documento son un testimonio de cómo e
 ---
 
 ## Referencias
-Alice, H. [Holly]. (2024, 30 de octubre). Pokémon TCG Pocket release date and pre-registration. *Pocket Tactics*. https://www.pockettactics.com/pokemon-tcg-pocket/release-date
+Alice, H. [Holly]. (2024, 30 de octubre). Pokémon TCG Pocket release date and pre-registration. *Pocket Tactics*. [URL](https://www.pockettactics.com/pokemon-tcg-pocket/release-date)
 
-Christie, C. [Connor]. (2024, 6 de noviembre). Pokémon TCG Pocket isn’t a card game, it’s a waiting room. *Pocket Tactics*. https://www.pockettactics.com/pokemon-tcg-pocket/review
+Christie, C. [Connor]. (2024, 6 de noviembre). Pokémon TCG Pocket isn’t a card game, it’s a waiting room. *Pocket Tactics*. [URL](https://www.pockettactics.com/pokemon-tcg-pocket/review)
 
-Gallego, J. [Jelor]. (2016, 2 de junio). Wildly Famous Japanese Pop Star Sells Thousands of Tickets in NYC. Also, She's A Hologram. *Futurism*. https://futurism.com/japanese-hologram-pop-star-conducts-north-america-tour
+Gallego, J. [Jelor]. (2016, 2 de junio). Wildly Famous Japanese Pop Star Sells Thousands of Tickets in NYC. Also, She's A Hologram. *Futurism*. [URL](https://futurism.com/japanese-hologram-pop-star-conducts-north-america-tour)
 
-Kafka, G. [George]. (2017, 2 de marzo). The future of pop music? Hollow shells run by algorithms - and Hatsune Miku is leading the way. *Wired*. https://www.wired.com/story/hatsune-mikus-still-be-here/
+Gravitate Carentibus. (2016, 9 de octubre). *Echo & Hibikase - LIVE (SUB ESPAÑOL) Gumi Megpoid English & Hatsune Miku (ヒビカセ x Echo) NicoNico 2015* [vídeo en línea]. YouTube. [URL](https://www.youtube.com/watch?v=A8h_iAwg-vc)
+
+Kafka, G. [George]. (2017, 2 de marzo). The future of pop music? Hollow shells run by algorithms - and Hatsune Miku is leading the way. *Wired*. [URL](https://www.wired.com/story/hatsune-mikus-still-be-here/)
 
 Manovich, L. [Lev].(2013). *El Software toma el mando*. Editorial UOC.
 
-Rehagen, T. [Tony]. (2021, 5 de mayo). One of Japan’s most beloved pop stars is a hologram. *Experience*. https://expmag.com/2021/05/one-of-japans-most-beloved-pop-stars-is-a-hologram/
+OpenAI (2024) *ChatGPT* (versión GPT-4) [modelo de lenguaje generativo]. [URL](https://chatgpt.com/)
 
-OpenAI (2024) *ChatGPT* (versión GPT-4) [modelo de lenguaje generativo]. https://chatgpt.com/
+Rehagen, T. [Tony]. (2021, 5 de mayo). One of Japan’s most beloved pop stars is a hologram. *Experience*. [URL](https://expmag.com/2021/05/one-of-japans-most-beloved-pop-stars-is-a-hologram/)
 
-Skubich, D. [Daz]. (2024, 3 de noviembre). Pokémon TCG Pocket’s god packs make collecting even more realistic. *Pocket Tactics*. https://www.pockettactics.com/pokemon-tcg-pocket/god-packs
+Skubich, D. [Daz]. (2024, 3 de noviembre). Pokémon TCG Pocket’s god packs make collecting even more realistic. *Pocket Tactics*. [URL](https://www.pockettactics.com/pokemon-tcg-pocket/god-packs)
 
-https://www.youtube.com/watch?v=A8h_iAwg-vc
-https://youtube.com/shorts/ajd9Ix0IvfE?si=jRdCyeC_Ue3Bv7WH
+TCG Genesis. (2024, 18 de octubre). *Charizard ex Immersive card animation in Pokemon TCG Pocket* [vídeo en línea]. YouTube. [URL](https://youtube.com/shorts/ajd9Ix0IvfE?si=jRdCyeC_Ue3Bv7WH)
