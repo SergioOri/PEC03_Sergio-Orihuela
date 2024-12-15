@@ -46,9 +46,11 @@ https://youtube.com/shorts/ajd9Ix0IvfE?si=jRdCyeC_Ue3Bv7WH
 
 - **Música reactiva**: La banda sonora se adapta el estado de la partida, intensificando cuando la batalla se aproxima a su fin.
 
+https://github.com/user-attachments/assets/dcb58eaa-08c8-48c1-9a34-73d7a0ab1239
+
 #### Interactividad social y conectividad global
 
-- **Gamificación global**: El formato digital permite a los jugadores competir o intercambiar cartas en línea con personas de todo el mundo, superando las barreras geográficas que limitan el juego físico.
+- **Gamificación global**: El formato digital permite a los jugadores competir o intercambiar cartas en línea con personas de todo el mundo, superando las barreras geográficasque limitan el juego físico.
 
 #### Gráficos interactivos y feedback visual
 
@@ -121,7 +123,7 @@ Por otro lado, los conciertos holográficos de Hatsune Miku demuestran la hibrid
 
 ## Conclusión
 
-En el contexto actual, donde lo físico y lo digital convergen, la hibridación de medios se posiciona como un motor clave para la innovación cultural. Como sostiene Manovich (2013), *“el software se convierte en el agente central en la creación de medios, dictando sus posibilidades y límites”*. Los casos analizados demuestran cómo esta lógica redefine nuestras formas de interacción, consumo y creación cultural. La hibridación no solo expande los horizontes con los medios tradicionales, sino que los transforma nuestra relación con la tecnología.
+En el contexto actual, donde lo físico y lo digital convergen, la hibridación de medios se posiciona como un motor clave para la innovación cultural. Como sostiene Manovich (2013), `“el software se convierte en el agente central en la creación de medios, dictando sus posibilidades y límites”`. Los casos analizados demuestran cómo esta lógica redefine nuestras formas de interacción, consumo y creación cultural. La hibridación no solo expande los horizontes con los medios tradicionales, sino que los transforma nuestra relación con la tecnología.
 
 Ambos ejemplos presentados a lo largo del documento son un testimonio de cómo el *software toma el mando*, configurando no solo los medios que consumimos, sino también las experiencias y conexiones culturales que generan.
 
