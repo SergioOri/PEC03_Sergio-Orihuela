@@ -28,8 +28,6 @@ Pokémon TGC Pocket es una versión digital del juego de cartas coleccionables P
 
 La versión digital también incorpora medios como gráficos interactivos, que muestran cuantos Pokémon has vencido del rival, cuántas victorias has logrado, una base de datos para gestionar las cartas de cada jugador y conectividad en línea.
 
-https://youtube.com/shorts/ajd9Ix0IvfE?si=jRdCyeC_Ue3Bv7WH
-
 ### Medios que incorpora
 
 #### Digitalización del juego de cartas coleccionables
@@ -86,7 +84,7 @@ Además, la experiencia se extiende a las plataformas en línea, redes sociales 
 
 - **Efectos de iluminación y sincronización audiovisual**: Los conciertos combinan luces y efectos especiales que interactúan en tiempo real con la música y los movimientos del holograma. Esta combinación refuerza la experiencia inmersiva, creando un espectáculo impactante para la audiencia.
 
-https://www.youtube.com/watch?v=A8h_iAwg-vc
+https://github.com/user-attachments/assets/2fd06a39-7b3a-4cb2-a8aa-8e11a71dfcd5
 
 #### Generación de contenido musical
 
@@ -149,3 +147,6 @@ Rehagen, T. [Tony]. (2021, 5 de mayo). One of Japan’s most beloved pop stars i
 OpenAI (2024) *ChatGPT* (versión GPT-4) [modelo de lenguaje generativo]. https://chatgpt.com/
 
 Skubich, D. [Daz]. (2024, 3 de noviembre). Pokémon TCG Pocket’s god packs make collecting even more realistic. *Pocket Tactics*. https://www.pockettactics.com/pokemon-tcg-pocket/god-packs
+
+https://www.youtube.com/watch?v=A8h_iAwg-vc
+https://youtube.com/shorts/ajd9Ix0IvfE?si=jRdCyeC_Ue3Bv7WH
