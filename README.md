@@ -38,6 +38,8 @@ La versión digital también incorpora medios como gráficos interactivos, que m
 
 ![Mis Cartas](https://github.com/user-attachments/assets/468c3b3b-6418-482f-9c58-00ef0ed2a935)
 
+*Imagenes proporcionadas por mí*
+
 #### Efectos audiovisuales avanzados
 
 - **Animaciones en el tablero**: Cada carta incluye efectos visuales al ser colocadas o usadas, con opciones de personalización. Por ejemplo, pequeñas animaciones se activan al realizar ataques o habilidades, añadiendo dinamismo al juego.
@@ -47,6 +49,8 @@ La versión digital también incorpora medios como gráficos interactivos, que m
 - **Música reactiva**: La banda sonora se adapta el estado de la partida, intensificando cuando la batalla se aproxima a su fin.
 
 https://github.com/user-attachments/assets/dcb58eaa-08c8-48c1-9a34-73d7a0ab1239
+
+*Vídeo del usuario de TCG Genesis*
 
 #### Interactividad social y conectividad global
 
@@ -86,6 +90,8 @@ Además, la experiencia se extiende a las plataformas en línea, redes sociales 
 
 https://github.com/user-attachments/assets/2fd06a39-7b3a-4cb2-a8aa-8e11a71dfcd5
 
+*Vídeo del usuario de Gravitate Carentibus*
+
 #### Generación de contenido musical
 
 - **Música generada por software**: La voz de Hatsune Miku es creada mediante el software *Vocaloid*, que utiliza un banco de datos de la voz grabada por Saki Fujita. Este software permite producir canciones con cualquier tipo de letra y melodía, alcanzando niveles de calidad similares a las de las humanas.
@@ -95,6 +101,10 @@ https://github.com/user-attachments/assets/2fd06a39-7b3a-4cb2-a8aa-8e11a71dfcd5
 - **Participación y conectividad global**: El espectáculo no solamente es presencial, también se retransmite en vivo en plataformas como Niconico y YouTube. Esto permite a fans de todo el mundo disfrutar de las actuaciones en tiempo real, eliminando las barreras geográficas y ampliando la audiencia​.
  
 - **Contenido generado por usuarios**: La comunidad de fans contribuyen activamente al fenómeno, creando canciones originales, arte, moda y otros proyectos inspirados en Hatsune Miku. Esta participación colectiva amplifica el impacto cultural del personaje y lo convierte en un icono global.
+
+![Imagen de Hatsune Miku en un concierto](https://github.com/user-attachments/assets/81e77954-b675-4cc1-a653-f52b794f5a4e)
+
+*Imagen del usuario de Reddit DogTheCorgi*
 
 ### Hibridación del caso:
 
@@ -135,6 +145,8 @@ Ambos ejemplos presentados a lo largo del documento son un testimonio de cómo e
 Alice, H. [Holly]. (2024, 30 de octubre). Pokémon TCG Pocket release date and pre-registration. *Pocket Tactics*. [URL](https://www.pockettactics.com/pokemon-tcg-pocket/release-date)
 
 Christie, C. [Connor]. (2024, 6 de noviembre). Pokémon TCG Pocket isn’t a card game, it’s a waiting room. *Pocket Tactics*. [URL](https://www.pockettactics.com/pokemon-tcg-pocket/review)
+
+DogTheCorgi. (2024). *New to Vocaloid: My Miku Expo Experience* [fotográfia]. Reddit. [URL](https://www.reddit.com/r/Vocaloid/comments/1c0ya2t/new_to_vocaloid_my_miku_expo_experience/?show=original)
 
 Gallego, J. [Jelor]. (2016, 2 de junio). Wildly Famous Japanese Pop Star Sells Thousands of Tickets in NYC. Also, She's A Hologram. *Futurism*. [URL](https://futurism.com/japanese-hologram-pop-star-conducts-north-america-tour)
 
